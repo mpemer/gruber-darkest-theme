@@ -33,8 +33,8 @@
 ;; for deftheme and extended by Alexey Kutepov a.k.a. rexim.
 
 
-(deftheme gruber-darker
-  "Gruber Darker color theme for Emacs 24")
+(deftheme gruber-darkest
+  "Gruber Darkest color theme for Emacs 24")
 
 ;; Please, install rainbow-mode.
 ;; Colors with +x are lighter. Colors with -x are darker.
@@ -43,12 +43,12 @@
       (gruber-darker-fg+2      "#f5f5f5")
       (gruber-darker-white     "#ffffff")
       (gruber-darker-black     "#000000")
-      (gruber-darker-bg-1      "#101010")
-      (gruber-darker-bg        "#181818")
-      (gruber-darker-bg+1      "#282828")
-      (gruber-darker-bg+2      "#453d41")
-      (gruber-darker-bg+3      "#484848")
-      (gruber-darker-bg+4      "#52494e")
+      (gruber-darker-bg-1      "#040404")
+      (gruber-darker-bg        "#080808")
+      (gruber-darker-bg+1      "#121212")
+      (gruber-darker-bg+2      "#202020")
+      (gruber-darker-bg+3      "#303030")
+      (gruber-darker-bg+4      "#404040")
       (gruber-darker-red-1     "#c73c3f")
       (gruber-darker-red       "#f43841")
       (gruber-darker-red+1     "#ff4f58")
